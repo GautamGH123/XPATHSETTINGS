@@ -3,4 +3,4 @@ xPathNoContactFound://*[@id='pane-side']/div[1]/div/span|
 xPathInvalidPhoneNumber://*[@id='app']/div/span[2]/div/span/div/div/div/div/div/div[2]/div/div/div|
 AttachmentButton://div[@aria-label='Attach']|
 AttachmentImage://span[@data-icon='attach-image']|
-AttachmentDocument://span[@data-icon='mi-attach-document']|
+AttachmentDocument://span[@data-icon='attach-document']|
